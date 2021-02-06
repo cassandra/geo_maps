@@ -57,7 +57,7 @@ src/python/org/cassandra/geo_maps/geo_maps.py:USA_CONTINENTAL_GEO_MAP
 src/python/org/cassandra/geo_maps/geo_maps.py:ALASKA_CONTINENTAL_GEO_MAP
 src/python/org/cassandra/geo_maps/geo_maps.py:HAWAII_CONTINENTAL_GEO_MAP
 ```
-You can adapt this to use a different SVG file, but you will have to determine the geo boundaries, scale and rotation that might have been applied when the SVG map was drawn. The SVG needs to represent an Albers projection, but people tend to do this at different scales and sometimes even apply a rotation to make ti look nicer.
+You can adapt this to use a different SVG file, but you will have to determine the geo boundaries, scale and rotation that might have been applied when the SVG map was drawn. The SVG needs to represent an Albers projection, but people tend to do this at different scales and sometimes even apply a rotation to make it look nicer.
 
 *SVG image is courtesy of the wikimedia folks.*
 
